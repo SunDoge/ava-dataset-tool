@@ -1,4 +1,4 @@
-ava_url="https://s3.amazonaws.com/ava-dataset/test/"
+ava_url="http://s3.gayhub.cn/ava-dataset/test/"
 
 while read p; do
   echo $p
